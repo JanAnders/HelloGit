@@ -9,8 +9,12 @@ public class Main {
 		Philipp phil = new Philipp();
 		Noel noel = new Noel();
 		jan.ausgabe();
+<<<<<<< HEAD
 		phil.ausgabe();
 		noel.ausgabe();
+=======
+		//hallo ein test
+>>>>>>> Noelbranch
 		//eine änderung
 	}
 }
