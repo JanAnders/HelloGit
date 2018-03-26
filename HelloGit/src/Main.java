@@ -7,6 +7,7 @@ public class Main {
 		
 		Jan jan = new Jan();
 		jan.ausgabe();
+		//hallo ein test
 		//eine änderung
 	}
 }
